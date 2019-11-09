@@ -1,4 +1,4 @@
-# Web-boilerplate
+# Web-boilerplate 🌍⚒
 
 Featuring:
 
